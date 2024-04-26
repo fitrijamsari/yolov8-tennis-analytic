@@ -1,0 +1,4 @@
+directory:
+  input: /Users/ofotech_fitri/Documents/fitri_github/yolov8-football-analytic/input/bundesliga_video.mp4
+  output: /Users/ofotech_fitri/Documents/fitri_github/yolov8-football-analytic/output/bundesliga_video_output.mp4
+  model: /Users/ofotech_fitri/Documents/fitri_github/yolov8-football-analytic/models/best.pt

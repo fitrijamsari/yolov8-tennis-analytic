@@ -2,11 +2,10 @@ from pathlib import Path
 
 list_of_files = [
     f"src/__init__.py",
-    f"src/logging_conf.yaml",
+    f"src/logging_conf.py",
     f"src/main.py",
     f"src/utils/__init__.py",
     f"src/utils/common.py",
-    "config/__init__.py",
     "config/config.yaml",
     "img/.gitkeep",
     "input/.gitkeep",
